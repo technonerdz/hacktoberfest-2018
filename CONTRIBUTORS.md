@@ -137,3 +137,8 @@
 - Place: New Delhi, Delhi, IN
 - Bio: Student at high school
 - GitHub: [aineshsootha](https://github.com/AineshSootha)
+
+#### Name: [Félix Giffard](https://github.com/technonerdz)
+- Place: Sherbrooke, Québec, Canada
+- Bio: Computer science student at the Cégep de Sherbrooke
+- GitHub: [aineshsootha](https://github.com/AineshSootha)
